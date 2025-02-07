@@ -43,4 +43,4 @@ Analyze Results
 Check the TestResults folder for detailed reports
 
 # Conclusion 📜 
-This project demonstrates proficiency in API testing, ensuring the reliability, accuracy, and efficiency of eCommerce APIs. 🚀
+This project demonstrates the reliability, accuracy, and efficiency of eCommerce APIs. 🚀
